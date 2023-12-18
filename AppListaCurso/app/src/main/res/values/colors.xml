@@ -8,6 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="amarelo">#FFEB3B</color>
-    <color name="ColorButton">#5EC6D3</color>
+    <color name="ColorButton">#1A7A87</color>
+    <color name="ColorHintText">#B3B3B3</color>
 
 </resources>
