@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="amarelo">#FFEB3B</color>
     <color name="ColorButton">#1A7A87</color>
-    <color name="ColorHintText">#B3B3B3</color>
+    <color name="ColorHintText">#D5D5D5</color>
+    <color name="azul">#6CBADD</color>
 
 </resources>
