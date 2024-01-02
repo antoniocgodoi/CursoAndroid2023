@@ -1,4 +1,4 @@
 package devandroid.godoi.applista.controller;
 
-public class CursoController {
+public class PessoaController {
 }
